@@ -1,0 +1,252 @@
+body {
+    background-color: #E5E5E5;
+    font-family: 'Montserrat', sans-serif;  
+}
+
+.main-contacts-section {
+    background-color: #fff; 
+    padding: 102px 88px 88px 107px;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.about-me-profession {
+    font-weight: 700;
+    font-size: 14px;
+    color: black;
+    font-style: normal;
+    line-height: 17px;
+}
+/*----------------------------------------------------------- Right Main Size Conteiner */
+.about-me-section {
+    margin: 0 0 40px 0;
+}
+
+.my-name {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: black;
+    margin: 0 0 25px 0;
+}
+
+.my-description {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    width: 400px;
+    margin-top: 25px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.my-projects-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+.my-projects-list {
+    padding: 0 0 0 17px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.my-projects-section {
+    margin-bottom: 50px;
+}
+
+.freelance-title {
+    color: #FB6D3A;
+}
+
+.bold-li {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.my-projects-list-item {
+    color: #000000;
+}
+
+.my-project-link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.my-projects-text {
+    color: #595959;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 5px;
+}
+
+
+.main-conteiner {
+    padding: 40px;
+    display: flex;
+    flex-direction: row-reverse;
+    background: #E5E5E5;
+}
+
+
+/*------------------------------------------------- Said Bar Styles, Left Main Size Conteiner */
+.said-bar {
+    background-color: #1E2939;
+    width: 370px;
+    padding: 15px 0 0 0;
+
+}
+
+.contacts {
+   margin: 50px 0 0 40px;
+}
+
+.tech-skills {
+    margin: 50px 0 0 40px;
+}
+
+.contacts-title {
+    color: white;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+} 
+
+.tech-title {
+    color: white;
+
+}
+
+.soft-title {
+    color: white;
+
+}
+
+/* First Letter  */
+.letter {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: white;
+    margin-right: 5px;
+}
+
+/* My Phone Number  */
+.tel-link {
+    color: #565E6A;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+/* My Gmail */
+.mail-link {
+    color: #565E6A;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+/* Tech List Skills */
+.tech-list {
+    padding: 0 0 0 17px;
+}
+
+/* Colors px(.) for Tech Skills */
+.tech-color {
+    color: #FB6D3A;
+}
+
+.tech-letter-color {
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.soft-list {
+    padding: 0 0 0 17px;
+}
+
+.soft-skills {
+    margin: 50px 0 0 40px;
+}
+
+/* Colors px(.) for Soft Skills */
+.soft-color {
+    color: #FB6D3A;
+}
+
+.soft-letter-color {
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.university {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;
+}
+
+.work-position {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 0 0 10px 0;
+}
+
+.my-work-time {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin: 0 0 10px 0;
+}
+
+.symbol {
+    height: 20px;
+    color: #000000;
+}
+
+.my-duties {
+  padding: 0 0 0 18px;
+}
+
+.about-working {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.third-company {
+    padding: 0 0 27px 0;
+}
